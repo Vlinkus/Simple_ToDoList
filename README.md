@@ -1,11 +1,4 @@
 # Simple To Do List App
-
-#Table of Contents
--[**Introduction**](#Introduction)
-  -[Stack](#Stack)
-
-#Introduction
-
 <p>This is Simple To Do List REST server or backend. Contains all CRUD operations [CREATE, READ, UPDATE, DELETE]. 
   No Spring Data REST RelationShip is created in this project.</p>
 
